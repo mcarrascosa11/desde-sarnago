@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>Desde Sarnago</title>
+  <link>https://sarnago.com/podcast/</link>
+  <language>es</language>
+  <description>Archivo sonoro completo del Podcast de Sarnago con historias, relatos y memoria de Tierras Altas.</description>
+  <itunes:author>Asociación de Amigos de Sarnago</itunes:author>
+  <itunes:owner>
+    <itunes:name>Asociación de Amigos de Sarnago</itunes:name>
+    <itunes:email>sarnago@sarnago.com</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:category text="Society &amp; Culture"/>
+  <itunes:image href="https://effervescent-fudge-3dc633.netlify.app/podcast-cover.jpg"/>
+  <item>
+    <title>El lavadero</title>
+    <description>Isabel Goig nos recita su escrito sobre el lavadero y las mujeres sarnaguesas</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/el-lavadero-un-lugar-de-encuentro.mp3" type="audio/mpeg" length="4089446"/>
+    <guid isPermaLink="false">el-lavadero-un-lugar-de-encuentro</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Placa-Isabel-1-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Sabina</title>
+    <description>Isabel Goig nos lee su cuento titulado Sabina.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/sabina.mp3" type="audio/mpeg" length="5138022"/>
+    <guid isPermaLink="false">sabina</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/130240089_10222218634886707_4958493999587948468_o-1-001-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Romana</title>
+    <description>Isabel Goig se mete en la piel de Romana y nos cuenta como podría haber sido el ultimo viaje de hasta su pueblo.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/romana.mp3" type="audio/mpeg" length="3460300"/>
+    <guid isPermaLink="false">romana</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/29sarnago4-150x150.jpg"/>
+  </item>
+  <item>
+    <title>La tía pastora</title>
+    <description>Isabel Goig nos deleita con este bonito cuento que lleva por título «La tía pastora»</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/la-tia-pastora.mp3" type="audio/mpeg" length="8178892"/>
+    <guid isPermaLink="false">la-tia-pastora</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/WhatsApp-Image-2024-08-26-at-18.22.34-150x150.jpeg"/>
+  </item>
+  <item>
+    <title>Carolo Carabolo</title>
+    <description>Pequeño cuento de Isabel Goig con un final inesperado donde el humor se hace un hueco en un contexto lúgubre.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/carolo-carabolo.mp3" type="audio/mpeg" length="5242880"/>
+    <guid isPermaLink="false">carolo-carabolo</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/images-150x150.jpg"/>
+  </item>
+  <item>
+    <title>El corcino</title>
+    <description>Cuento de Isabel Goig donde nos relata una tierna historia de una futura inquilina de nuestro espacio de teletrabajo con vivienda (en la linea de nuestra colecta en marcha)</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/el-corcino.mp3" type="audio/mpeg" length="1782579"/>
+    <guid isPermaLink="false">el-corcino</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/El-corcino-150x150.jpg"/>
+  </item>
+  <item>
+    <title>El cestaño de la móndida</title>
+    <description>Isabel Goig nos deleita con un sencillo cuento donde pone en valor las móndidas de Sarnago y por extensión las de los diferentes pueblos donde se continúan celebrando.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/el-cestano-de-la-mondida.mp3" type="audio/mpeg" length="2726297"/>
+    <guid isPermaLink="false">el-cestano-de-la-mondida</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Mondidas-2024-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Luz estelar</title>
+    <description>Miró hacia arriba y las estrellas ya no eran solo estrellas: eran ojos que observaban, sonrisas suspendidas en la eternidad. Entre la Vía Láctea y Orión, Isabel Goig encontró a los antiguos habitantes de Sarnago, como si la noche les hubiera tejido un refugio en su inmensidad.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/luz-estelar.mp3" type="audio/mpeg" length="1992294"/>
+    <guid isPermaLink="false">luz-estelar</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Polar-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Herencias de fe, testamentos para la salvación</title>
+    <description>Isabel Goig nos cuenta como durante siglos, la fe dejó huella en los testamentos: misas pagadas, cera para las iglesias y donaciones para asegurar la salvación eterna.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/herencias-de-fe-testamentos-para-la-salvacion.mp3" type="audio/mpeg" length="3565158"/>
+    <guid isPermaLink="false">herencias-de-fe-testamentos-para-la-salvacion</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0966-150x150.jpg"/>
+  </item>
+  <item>
+    <title>La sombra de Caín</title>
+    <description>Miguel Ángel San Miguel hace un repaso de nuestra historia, desde los antiguos celtíberos a los pastores trashumantes, de los pueblos vacíos al renacer de la memoria: acompáñanos en este viaje por la historia viva de la comarca.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/la-sombra-de-cain.mp3" type="audio/mpeg" length="9437184"/>
+    <guid isPermaLink="false">la-sombra-de-cain</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/pag34-001-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Alkarama, Alkarama que bien suenas</title>
+    <description>Miguel Ángel San Miguel nos guía por la Sierra de Alcarama, tierra de fronteras, refugios y encuentros culturales a lo largo de los siglos.
+Un viaje sonoro por la memoria y la identidad de Tierras Altas, donde la historia sigue hablando entre montes y silencios.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/alkarama-alkarama-que-bien-tu-nombre-suena.mp3" type="audio/mpeg" length="8388608"/>
+    <guid isPermaLink="false">alkarama-alkarama-que-bien-tu-nombre-suena</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0952.jpg"/>
+  </item>
+  <item>
+    <title>La última trashumacia</title>
+    <description>Beatriz Ortego nos recita el texto que presentó al  I concurso literario «Abel Hernández»</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/la-ultima-trashumancia.mp3" type="audio/mpeg" length="3984588"/>
+    <guid isPermaLink="false">la-ultima-trashumancia</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/IMG_20230429_195902-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Cultivando oportunidades</title>
+    <description>Macarena Expósito nos recita su relato que presentó al I concurso literario Abel Hernández</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/cultivando-oportunidades.mp3" type="audio/mpeg" length="2411724"/>
+    <guid isPermaLink="false">cultivando-oportunidades</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Navia-Valduerteles-copia-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Confidencias de una oveja</title>
+    <description>En este podcast de Merche de la Villa que presentó al I Concurso Literario Abel Hernández, nos trae una sorpresa: la voz de una oveja que nos habla y donde la tradición y la creatividad pastan juntas en Sarnago.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/confidencias-de-una-oveja.mp3" type="audio/mpeg" length="3879731"/>
+    <guid isPermaLink="false">confidencias-de-una-oveja</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/IMG_20240622_113829-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Otros dominios del silencio blanco</title>
+    <description>Otro de los relatos participantes en el I concurso literario Abel Hernández en esta ocasión se trata del presentado por María Sofía Abarca recitado por la autora</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/otros-dominios-del-silencio-blanco.mp3" type="audio/mpeg" length="3355443"/>
+    <guid isPermaLink="false">otros-dominios-del-silencio-blanco</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/IMG_20230429_200857-002-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Ya es tiempo</title>
+    <description>Podcast realizado a partir del relato «Ya es tiempo» que Ana María Abad presentó al I concurso literario Abel Hernández, recitado por la autora.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/ya-es-tiempo.mp3" type="audio/mpeg" length="3565158"/>
+    <guid isPermaLink="false">ya-es-tiempo</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0630-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Si las ovejas supieran</title>
+    <description>Podcast realizado a partir del relato «Si las ovejas supieran» que su autora, Gurutze Irisarri, presentó al I concurso literario Abel Hernández y que ha querido recitar para este proyecto de «un podcast cada semana».</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/si-las-ovejas-supieran.mp3" type="audio/mpeg" length="2097152"/>
+    <guid isPermaLink="false">si-las-ovejas-supieran</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/IMG_20230429_195749-150x150.jpg"/>
+  </item>
+  <item>
+    <title>¿ Quién guiará de las ovejas?</title>
+    <description>Continuamos con relatos de nuestro I concurso literario Abel Hernández. Hoy el encargado de poner voz a su relato corresponde a Ángel Júlvez Pardos</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/quien-guiara-las-ovejas.mp3" type="audio/mpeg" length="3879731"/>
+    <guid isPermaLink="false">quien-guiara-las-ovejas</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/IMG_20240622_113111-150x150.jpg"/>
+  </item>
+  <item>
+    <title>A sacarlas al agua</title>
+    <description>Julián Jiménez, de San Andrés de San Pedro, presentó este bonito relato al I concurso literario Abel Hernández en el que se retrae a los días de nieve donde había que sacar las ovejas de la majada para darles el agua.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/a-sacarlas-al-agua.mp3" type="audio/mpeg" length="2306867"/>
+    <guid isPermaLink="false">a-sacarlas-al-agua</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/IMG_20240622_113052-150x150.jpg"/>
+  </item>
+  <item>
+    <title>La herencia recibida</title>
+    <description>Relato que Mª Ángeles Pozuelo presentó al I concurso literario Abel Hernández. A los setenta años, recibir una casa y un rebaño trae consigo la posibilidad de cumplir un sueño largamente acariciado: vivir en el campo, recuperar saberes tradicionales y emprender un nuevo capítulo vital lleno de propósito y conexión con la tierra.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/la-herencia-recibida.mp3" type="audio/mpeg" length="1258291"/>
+    <guid isPermaLink="false">la-herencia-recibida</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0714-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Palabra de pastor</title>
+    <description>Un relato que retrata la lucha de Silverio, un pastor de las Tierras Altas, contra la soledad y el olvido, aferrándose a sus ovejas y recuerdos. Con una prosa emotiva, rinde homenaje a los pastores y a la dignidad de quienes resisten en los pueblos olvidados.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/palabra-de-pastor.mp3" type="audio/mpeg" length="4508876"/>
+    <guid isPermaLink="false">palabra-de-pastor</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/IMG_20240622_114514-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Pastores de Tierras Altas</title>
+    <description>En este podcast, Víctor Palacios, nieto de los dueños de la majada de la fotografía, rinde homenaje a los pastores de las Tierras Altas con un poema cargado de tradición y memoria. ¡No te lo pierdas!</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/pastores-de-tierras-altas.mp3" type="audio/mpeg" length="4089446"/>
+    <guid isPermaLink="false">pastores-de-tierras-altas</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Navia-Valduerteles-copia-1-150x150.jpg"/>
+  </item>
+  <item>
+    <title>¡ La madre que te parió!</title>
+    <description>Alfonso Fresno nos relata el amor y reconocimiento de una oveja hacia su cría.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/la-madre-que-te-pario.mp3" type="audio/mpeg" length="1572864"/>
+    <guid isPermaLink="false">la-madre-que-te-pario</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/WhatsApp-Image-2024-12-12-at-14.17.52-1-150x150.jpeg"/>
+  </item>
+  <item>
+    <title>El fantasma de Sarnago</title>
+    <description>Podcast de Estrella Pulido. La última guardiana de Sarnago: un legado de secretos y memoria entre las sombras de las casas abandonadas, donde los ecos del pasado siguen vivos.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/el-fantasma-de-sarnago.mp3" type="audio/mpeg" length="2411724"/>
+    <guid isPermaLink="false">el-fantasma-de-sarnago</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/el_fantasma_de_sarnago_final-150x150.png"/>
+  </item>
+  <item>
+    <title>El vellón de lana de lana en Sarnago</title>
+    <description>En esta entrega viajamos a la esencia de Sarnago a través de un elemento simple pero cargado de historia: «el vellón de lana». Entre relatos y tradiciones, descubrimos cómo este material ha sido testigo del tiempo, de la vida en el pueblo y de un modo de existencia ligado a la naturaleza y el esfuerzo.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/el-vellon-de-lana-en-sarnago.mp3" type="audio/mpeg" length="908083"/>
+    <guid isPermaLink="false">el-vellon-de-lana-en-sarnago</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0728-150x150.jpg"/>
+  </item>
+  <item>
+    <title>El castillo de Sarnago</title>
+    <description>Miguel Ángel San Miguel nos explica la importancia estratégica del castillo de Sarnago.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/el-castillo-de-sarnago.mp3" type="audio/mpeg" length="3565158"/>
+    <guid isPermaLink="false">el-castillo-de-sarnago</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0101-Pano-002-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Primeros pobladores</title>
+    <description>Miguel Ángel San Miguel nos explica muy brevemente los primeros pobladores de Sarnago y la comarca así como las religiones que practicaban.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/pobladores-y-religiones.mp3" type="audio/mpeg" length="2726297"/>
+    <guid isPermaLink="false">pobladores-y-religiones</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Nieve-abril-2009-150x150.jpg"/>
+  </item>
+  <item>
+    <title>La romanización de la comarca</title>
+    <description>El profesor Miguel Ángel San Miguel nos explica como se produce la romanización en la cuenca alta del río Linares</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/romanizacion.mp3" type="audio/mpeg" length="4823449"/>
+    <guid isPermaLink="false">romanizacion</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Romanos-150x150.jpg"/>
+  </item>
+  <item>
+    <title>La leyenda de la reina cristiana</title>
+    <description>Miguel Ángel San Miguel nos relata una vieja leyenda sobre una reina cristiana asesinada por los moros.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/la-leyenda-de-la-reina-cristiana.mp3" type="audio/mpeg" length="3670016"/>
+    <guid isPermaLink="false">la-leyenda-de-la-reina-cristiana</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/San-Pedro-el-Viejo-150x150.jpg"/>
+  </item>
+  <item>
+    <title>La comunidad de villa y tierra de San Pedro de Yanguas</title>
+    <description>El profesor Miguel Ángel San Miguel nos cuenta los orígenes de las comunidades de villa y tierra, su estructura y gobernanza.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/comunidades-villa-y-tierra.mp3" type="audio/mpeg" length="5557452"/>
+    <guid isPermaLink="false">comunidades-villa-y-tierra</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/pag31-001-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Minorías religiosas</title>
+    <description>Minorías étnico religiosas en la comunidad de villa y tierra de San Pedro, por el profesor Miguel Ángel San Miguel.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/minorias-religiosas.mp3" type="audio/mpeg" length="4613734"/>
+    <guid isPermaLink="false">minorias-religiosas</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/pag11-001-150x150.jpg"/>
+  </item>
+  <item>
+    <title>La Mesta</title>
+    <description>La importancia que tuvo  La Mesta durante siglos en esta comarca</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/la-mesta.mp3" type="audio/mpeg" length="8074035"/>
+    <guid isPermaLink="false">la-mesta</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Mesta-150x150.jpg"/>
+  </item>
+  <item>
+    <title>La Mesta en Tierras Altas</title>
+    <description>La importancia que tuvo  La Mesta durante siglos en esta comarca</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/la-mesta-en-tierras-altas.mp3" type="audio/mpeg" length="9542041"/>
+    <guid isPermaLink="false">la-mesta-en-tierras-altas</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Ovejas-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Sobre el origen de Sarnago</title>
+    <description>El posible origen del toponímico de Sarnago. Por Eduardo Aznar</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/sobre-el-origen-del-nombre-de-sarnago.mp3" type="audio/mpeg" length="4194304"/>
+    <guid isPermaLink="false">sobre-el-origen-del-nombre-de-sarnago</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Sarnago-1-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Muere un mundo y nace otro</title>
+    <description>Cambios muy importantes en la comarca en el S XIX</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/muere-un-mundo-y-nace-otro.mp3" type="audio/mpeg" length="9542041"/>
+    <guid isPermaLink="false">muere-un-mundo-y-nace-otro</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/pag41-001-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Mineros sorianos en Vizcaya</title>
+    <description>Mineros de San Pedro y Sarnago en las minas de Vizcaya</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/los-mineros.mp3" type="audio/mpeg" length="11219763"/>
+    <guid isPermaLink="false">los-mineros</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/130240089_10222218634886707_4958493999587948468_o-1-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Ingenios hidráulicos en el río Linares</title>
+    <description>El profesor Miguel Ángel San Miguel nos habla de la importancia que tuvieron en más de dos siglos los diferentes ingenios hidráulicos en el cauce del río Linares, desde batanes y lavaderos de lanas hasta los molinos harineros.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/ingenios-hidraulicos-en-el-rio-linares.mp3" type="audio/mpeg" length="6396313"/>
+    <guid isPermaLink="false">ingenios-hidraulicos-en-el-rio-linares</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0149-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Ilustrados en Tierras Altas</title>
+    <description>Ilustrados en Tierras Altas de Soria a partir del SXVIII</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/los-ilustrados.mp3" type="audio/mpeg" length="8808038"/>
+    <guid isPermaLink="false">los-ilustrados</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Julian_Sanz_del_Rio-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Los geólogos alemanes</title>
+    <description>Miguel Ángel San Miguel nos habla de cuando unos geólogos alemanes vinieron a la comarca de San Pedro Manrique.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/geologos-alemanes-en-tierras-altas.mp3" type="audio/mpeg" length="5347737"/>
+    <guid isPermaLink="false">geologos-alemanes-en-tierras-altas</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0965-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Un chico de Vea en el mercado de San Pedro</title>
+    <description>Miguel Ángel San Miguel nos relata como podría haber sido la primera visita de un chico de Vea, o de otro pueblo cualquiera, al mercado de los lunes de San pedro. Manrique.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/un-chico-de-vea.mp3" type="audio/mpeg" length="9332326"/>
+    <guid isPermaLink="false">un-chico-de-vea</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Vea-150x150.jpg"/>
+  </item>
+  <item>
+    <title>A la virgen de la Peña</title>
+    <description>Miguel Ángel San Miguel hace una oda a la virgen de la Peña y por extensión a la sierra del Alcarama</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/a-la-virgen-de-la-pena.mp3" type="audio/mpeg" length="3145728"/>
+    <guid isPermaLink="false">a-la-virgen-de-la-pena</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSCF2171-001-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Bautizo pelao</title>
+    <description>Miguel Ángel San Miguel nos cuenta como era un nacimiento y posterior bautizo en cualquier pueblo hace más de 50 años.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/bautizo-pelao.mp3" type="audio/mpeg" length="7864320"/>
+    <guid isPermaLink="false">bautizo-pelao</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/1-2-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Los comediantes</title>
+    <description>Llegan los comediantes al pueblo. Miguel Ángel San Miguel nos relata como era la llegada de estos artistas al pueblo, su estancia y las funciones de teatro más habituales.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/comediantes.mp3" type="audio/mpeg" length="7235174"/>
+    <guid isPermaLink="false">comediantes</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Teatro-San-Pedro-150x150.jpg"/>
+  </item>
+  <item>
+    <title>La prosperidad de la Mesta, riqueza para una minoría.</title>
+    <description>El profesor Miguel Ángel San Miguel nos describe la importancia que tuvo la Mesta en estas tierras.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/la-prosperidad-de-la-mesta-riqueza-para-una-minoria.mp3" type="audio/mpeg" length="8703180"/>
+    <guid isPermaLink="false">la-prosperidad-de-la-mesta-riqueza-para-una-minoria</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/pag36-001-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Diezmos y primicias para la iglesia</title>
+    <description>Miguel Ángel San Miguel nos enumera los impuestos que recibía el clero de Villa y Tierra de San Pedro en el siglo XVIII. Datos extraídos del catastro del marqués de la Ensenada.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/diezmos-y-primicias-para-la-iglesia.mp3" type="audio/mpeg" length="4823449"/>
+    <guid isPermaLink="false">diezmos-y-primicias-para-la-iglesia</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Iglesia-1-1-150x150.jpg"/>
+  </item>
+  <item>
+    <title>La primera comunión</title>
+    <description>Miguel Ángel San Miguel nos retrotrae a tiempos, no tan lejanos, donde hasta hacer la primera comunión podía significar un inicio de la diferenciación de clases sociales.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/la-primera-comunion.mp3" type="audio/mpeg" length="7340032"/>
+    <guid isPermaLink="false">la-primera-comunion</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/1-3-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Guerras en el S XIX</title>
+    <description>Miguel Ángel San Miguel nos habla de las batallas que tuvieron lugar en siglo XIX en la comunidad de villa y tierra de San Pedro Manrique dentro del contexto de las guerras que en ese siglo se produjeron en España.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/guerras-en-el-sxix.mp3" type="audio/mpeg" length="5557452"/>
+    <guid isPermaLink="false">guerras-en-el-sxix</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/pag41-001-1-150x150.jpg"/>
+  </item>
+  <item>
+    <title>El sorteo de los novios</title>
+    <description>️ Tradiciones de Nochevieja: El sorteo de los novios
+Isabel Goig nos adentra en una tradición de Nochevieja donde, entre risas y canciones, los jóvenes se emparejaban simbólicamente para empezar el nuevo año.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/el-sorteo-de-los-novios.mp3" type="audio/mpeg" length="2516582"/>
+    <guid isPermaLink="false">el-sorteo-de-los-novios</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/74-150x150.jpg"/>
+  </item>
+  <item>
+    <title>La vejiga del cerdo</title>
+    <description>En la matanza del cerdo, todo tenía un propósito: incluso la vejiga, inflada con cuidado, se transformaba en una pelota con la que los chavales llenaban de risas las calles del pueblo.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/le-vejiga-del-cerdo.mp3" type="audio/mpeg" length="2306867"/>
+    <guid isPermaLink="false">le-vejiga-del-cerdo</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/5-4-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Aprender a escribir</title>
+    <description>Un pequeño relato de Isabel Goig, donde nos cuenta la importancia de la educación en nuestra tierra y que personifica en la importante lucha de una chica por llegar a tener una gran preparación.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/aprender-a-escribir.mp3" type="audio/mpeg" length="2516582"/>
+    <guid isPermaLink="false">aprender-a-escribir</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/pag41-002-150x150.jpg"/>
+  </item>
+  <item>
+    <title>¿Aquí quién manda?</title>
+    <description>En este episodio, Miguel Ángel San Miguel nos trae un relato donde se debate un viejo dilema en los pueblos: ¿tenía más poder el alcalde o el cura? Lo que hoy podría parecer cómico, en su tiempo fue un asunto serio.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/aqui-quien-manda.mp3" type="audio/mpeg" length="6186598"/>
+    <guid isPermaLink="false">aqui-quien-manda</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0376-002-copiaIglesia-de-El-Collado-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Quedarse en el sueño</title>
+    <description>Isabel Goig nos lleva de viaje a aquellas pequeñas tiendas de los pueblos, donde se vendía de todo y la vida se contaba entre estantes. Escúchalo y sumérgete en la nostalgia de esos comercios que eran mucho más que tiendas.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/quedarse-en-el-sueno.mp3" type="audio/mpeg" length="2306867"/>
+    <guid isPermaLink="false">quedarse-en-el-sueno</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Jomarin-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Lunes de Bailas 1950</title>
+    <description>Podcast semanal de Miguel Ángel San Miguel, recordando cómo en 1950 los jóvenes sorianos defendieron con alegría y firmeza los bailes del Lunes de Bailas frente a la censura</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/lunes-de-bailas-1950.mp3" type="audio/mpeg" length="4823449"/>
+    <guid isPermaLink="false">lunes-de-bailas-1950</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0040-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Saturnina Ortega, un viaje de ida y vuelta</title>
+    <description>La vida llevó a Saturnina de las montañas de Soria a las costas de Menorca. Ocho décadas después, vuelve a Acrijos, al lugar que la vio nacer sin saber si algún día regresaría.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/saturnina-ortega-un-viaje-de-ida-y-vuelta.mp3" type="audio/mpeg" length="5033164"/>
+    <guid isPermaLink="false">saturnina-ortega-un-viaje-de-ida-y-vuelta</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0520-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Volver donde ya no estoy</title>
+    <description>Regresar al lugar donde creciste y no reconocerlo. Las calles han cambiado, las voces se han apagado y el alma del pueblo parece otra. En este episodio, Miguel Ángel San Miguel explora el desarraigo y la extrañeza de volver a casa cuando ya no es hogar.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/volver-donde-ya-no-estoy.mp3" type="audio/mpeg" length="11429478"/>
+    <guid isPermaLink="false">volver-donde-ya-no-estoy</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/unnamed-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Las móndidas de Sarnago de hace 100 años</title>
+    <description>Crónicas rescatadas del Avisador Numantino, transcritas por Isabel Goig, que nos devuelven el pulso de las móndidas de hace un siglo: la misa, los mayordomos, el ayuntamiento y una tradición que nunca dejó de latir.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/las-mondidas-de-sarnago-de-hace-100-anos.mp3" type="audio/mpeg" length="3774873"/>
+    <guid isPermaLink="false">las-mondidas-de-sarnago-de-hace-100-anos</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/68-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Las móndidas de Sarnago hace 100 años (2)</title>
+    <description>Isabel Goig rescata dos crónicas periodísticas de 1929 y 1931 sobre las fiestas de las Móndidas de Sarnago. Un emocionante viaje al pasado que revive el encanto y el simbolismo de esta tradición ancestral.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/mondidas-en-sarnago-hace-100-anos-2.mp3" type="audio/mpeg" length="3145728"/>
+    <guid isPermaLink="false">mondidas-en-sarnago-hace-100-anos-2</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/47-150x150.jpg"/>
+  </item>
+  <item>
+    <title>El robo de la matanza</title>
+    <description>Isabel Goig recupera una historia real de los años 40: el robo de la matanza ocurrido en la sierra soriana es esclarecido un año después en el mercado de San Pedro.
+Un relato marcado por la desconfianza y el contexto social de la época.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/el-robo-de-la-matanza.mp3" type="audio/mpeg" length="3670016"/>
+    <guid isPermaLink="false">el-robo-de-la-matanza</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/43-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Un paseo por la sierra</title>
+    <description>En su nuevo podcast, Isabel Goig nos lleva de la mano por un sendero tranquilo que desemboca en un hallazgo inesperado, arropado por la calma de la sierra</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/un-paseo-por-la-sierra.mp3" type="audio/mpeg" length="3984588"/>
+    <guid isPermaLink="false">un-paseo-por-la-sierra</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/IMG_20240329_184714-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Un paseo por la sierra (parte 2)</title>
+    <description>En su nuevo podcast, Isabel Goig. Lo que parecía un paseo más por los caminos solitarios de Soria terminó llevándola hasta una pareja silenciosa, portadora de un pasado que apenas se atreven a nombrar… y que prefieren mantener en la penumbra</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/paseo-por-la-sierra-parte-2.mp3" type="audio/mpeg" length="3879731"/>
+    <guid isPermaLink="false">paseo-por-la-sierra-parte-2</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/002-2-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Áspera Celtiberia</title>
+    <description>Este podcast es una inmersión en la Celtiberia áspera y resistente, un paisaje de silencios, cicatrices y memoria colectiva que Hernán Ruiz transforma en territorio narrativo.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/aspera-celtiberia.mp3" type="audio/mpeg" length="6186598"/>
+    <guid isPermaLink="false">aspera-celtiberia</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/47e2a179-8d71-4225-803b-c3f47bfb9fd2-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Los Banu Qasi en Tierras Altas</title>
+    <description>️ Eduardo Sarnago se adentra en el eco lejano de los Banu Qasi, señores del valle del Ebro, para seguir su posible rastro en las Tierras Altas de Soria, tierra de frontera donde historia y leyenda se entrelazan en los comienzos de la Reconquista.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/los-banu-qasi-en-tierras-altas.mp3" type="audio/mpeg" length="8074035"/>
+    <guid isPermaLink="false">los-banu-qasi-en-tierras-altas</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/pag12-001-150x150.jpg"/>
+  </item>
+  <item>
+    <title>La bendición de campos en Sarnago</title>
+    <description>️En este episodio, Luis C. Pastor, nos recuerda la bendición de los campos en Sarnago, el 3 de mayo. La Virgen del Monte era llevada en procesión desde la Cruz del Cerro, donde pasaba el año, hasta la iglesia, donde permanecía hasta la Trinidad Chica.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/bendicion-de-campos-en-sarnago.mp3" type="audio/mpeg" length="7340032"/>
+    <guid isPermaLink="false">bendicion-de-campos-en-sarnago</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/WhatsApp-Image-2025-06-17-at-18.55.20-150x150.jpeg"/>
+  </item>
+  <item>
+    <title>Los cagarraches</title>
+    <description>️Isabel Goig nos descubre la historia de los cagarraches, sorianos que bajaban al sur a ganarse el pan en las almazaras andaluzas.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/los-cagarraches.mp3" type="audio/mpeg" length="3565158"/>
+    <guid isPermaLink="false">los-cagarraches</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_1009-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Aguas medicinales</title>
+    <description>️Isabel Goig nos habla de manantiales de fe: cuando el pueblo acudía a las aguas a sanar el cuerpo y el alma</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/aguas-medicinales.mp3" type="audio/mpeg" length="5033164"/>
+    <guid isPermaLink="false">aguas-medicinales</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0592-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Unos personajes curiosos</title>
+    <description>Esta semana, Miguel Ángel San Miguel nos invita a mirar por el retrovisor de la memoria, donde los amigos de antes eran leyenda y las anécdotas, carcajadas.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/unos-personajes-curiosos.mp3" type="audio/mpeg" length="9122611"/>
+    <guid isPermaLink="false">unos-personajes-curiosos</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/37-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Juliana y las hierbas</title>
+    <description>Entre brebajes, leyendas y silencios, surge la figura de Juliana, la curandera de Sarnago. Isabel Goig nos descubre su historia: la de una mujer libre, sabia, temida… y quizá injustamente señalada.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/juliana-y-las-hierbas.mp3" type="audio/mpeg" length="2831155"/>
+    <guid isPermaLink="false">juliana-y-las-hierbas</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0156-150x150.jpg"/>
+  </item>
+  <item>
+    <title>El maestro de Sarnago represaliado</title>
+    <description>Hubo un tiempo en que enseñar podía costarte la vida. Isabel Goig rescata la historia del maestro de Sarnago, víctima de la depuración franquista.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/maestro-de-sarnago-depurado.mp3" type="audio/mpeg" length="3774873"/>
+    <guid isPermaLink="false">maestro-de-sarnago-depurado</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0848-001-1.jpg"/>
+  </item>
+  <item>
+    <title>El micromecenazgo de Pascualín</title>
+    <description>En tiempos en los que se cosían esperanzas y se bordaban promesas, Pascualín demostró que la devoción también se construye en común. Una historia de fe, ingenio y comunidad contada por Isabel Goig en su podcast semanal.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/el-micromecenazgo-de-pascualin.mp3" type="audio/mpeg" length="2831155"/>
+    <guid isPermaLink="false">el-micromecenazgo-de-pascualin</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/1-4.jpg"/>
+  </item>
+  <item>
+    <title>Retrato de un trashumante</title>
+    <description>Retrato de un pastor trashumante contado por Isabel Goig: un hombre que transita cañadas milenarias como un guardián del territorio, caminante de veredas que siembra vida y memoria en cada paso.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/retrato-de-un-trashumante.mp3" type="audio/mpeg" length="3040870"/>
+    <guid isPermaLink="false">retrato-de-un-trashumante</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_1013.jpg"/>
+  </item>
+  <item>
+    <title>Ramificaciones</title>
+    <description>Un canto a la tierra y a la gente que la mantiene viva. Ramificaciones es un poema de Mª Ángelica Muñoz que nos recuerda que, piedra sobre piedra, seguimos escribiendo la historia de Sarnago.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/ramificaciones.mp3" type="audio/mpeg" length="1153433"/>
+    <guid isPermaLink="false">ramificaciones</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Sarnago-Dom-manana-G.-Alonso-26-001.jpg"/>
+  </item>
+  <item>
+    <title>Donde se cuenta la increíble y graciosa manera que tuvo don Quijote de armarse caballero.</title>
+    <description>María Sofía Abarca imagina a Don Quijote en Sarnago, armándose caballero en plena fiesta de las Móndidas. Una divertida fusión de Cervantes y tradición local.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/donde-se-cuenta-la-increible-y-graciosa-manera-que-tuvo-don-quijote-de-armarse-caballero.mp3" type="audio/mpeg" length="2516582"/>
+    <guid isPermaLink="false">donde-se-cuenta-la-increible-y-graciosa-manera-que-tuvo-don-quijote-de-armarse-caballero</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0929-copia.jpg"/>
+  </item>
+  <item>
+    <title>Orgullosa rama</title>
+    <description>En este podcast escuchamos “Orgullosa rama”, relato del escritor argentino Jorge Padula Perkins, participante en el II Concurso Literario Abel Hernández.
+Una historia que nos invita a reflexionar sobre las raíces, la memoria y el paso del tiempo.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/la-rama-del-amor.mp3" type="audio/mpeg" length="3250585"/>
+    <guid isPermaLink="false">la-rama-del-amor</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0910.jpg"/>
+  </item>
+  <item>
+    <title>De mujer a mujer, memoria viva</title>
+    <description>Laura, móndida 2025, recitó unas palabras llenas de emoción y gratitud hacia las mujeres que nos precedieron, manteniendo viva la memoria y la esencia de Sarnago.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/las-vestales.mp3" type="audio/mpeg" length="2831155"/>
+    <guid isPermaLink="false">las-vestales</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0914-copia.jpg"/>
+  </item>
+  <item>
+    <title>Soy móndida, soy raíz</title>
+    <description>María Carrascosa, móndida de Sarnago 2025, un emotivo homenaje a las raíces, la tradición y el futuro del pueblo.
+Una voz joven que simboliza la continuidad y el amor por Sarnago.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/sarnago-raiz-y-herida.mp3" type="audio/mpeg" length="1363148"/>
+    <guid isPermaLink="false">sarnago-raiz-y-herida</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Mondidas-1.jpg"/>
+  </item>
+  <item>
+    <title>La llamada</title>
+    <description>La llamada — relato de Manuel Recuero Gutiérrez, participante del II Concurso Literario Abel Hernández.
+Jorge vuelve a Sarnago, al encuentro con sus raíces… y con una última llamada del pasado.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/la-llamada.mp3" type="audio/mpeg" length="2306867"/>
+    <guid isPermaLink="false">la-llamada</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Sarnago-Dom-tarde-G.-Alonso-27.jpg"/>
+  </item>
+  <item>
+    <title>Hacenderas y veredas</title>
+    <description>Miguel Ángel San Miguel nos invita a recordar las veredas y hacenderas, aquellos trabajos comunales que mantenían viva la vida rural y tejían lazos entre vecinos y paisajes.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/hacenderas-y-veredas.mp3" type="audio/mpeg" length="10066329"/>
+    <guid isPermaLink="false">hacenderas-y-veredas</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/2997-SARNAGO-HACENDERAS.jpg"/>
+  </item>
+  <item>
+    <title>El balcón de Vea</title>
+    <description>Isabel Goig nos regala este bonito cuento. Una niña asomada al balcón, un deseo que late y una sorpresa que transforma: literatura breve para detener el tiempo.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/el-balcon-de-vea.mp3" type="audio/mpeg" length="3040870"/>
+    <guid isPermaLink="false">el-balcon-de-vea</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/IMG_20240329_123939.jpg"/>
+  </item>
+  <item>
+    <title>Poesía en Tierras Altas</title>
+    <description>Miguel Ángel San Miguel repasa en este podcast la rica tradición poética nacida en Tierras Altas y la inspiración que este territorio ha brindado a autores de distintas épocas. Un recorrido breve pero luminoso por cómo el paisaje y la memoria de la comarca se han convertido en versos.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/poesia-en-tierras-altas.mp3" type="audio/mpeg" length="13212057"/>
+    <guid isPermaLink="false">poesia-en-tierras-altas</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/WhatsApp-Image-2025-11-21-at-12.21.14-1.jpeg"/>
+  </item>
+  <item>
+    <title>EL ÁRBOL DE LAS HISTORIAS: MI PADRE Y MI PUEBLO</title>
+    <description>Lisbeth del Carmen Jones</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/el-arbol-de-las-historias-mi-padre-y-mi-pueblo.mp3" type="audio/mpeg" length="2831155"/>
+    <guid isPermaLink="false">el-arbol-de-las-historias-mi-padre-y-mi-pueblo</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0928.jpg"/>
+  </item>
+  <item>
+    <title>JAIME Y SU TREN ELÉCTRICO</title>
+    <description>Isabel Goig nos regala este cuento de Navidad que viaja desde la imaginación de la infancia hasta la memoria que nos acompaña toda la vida.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/jaime-y-su-tren-electrico.mp3" type="audio/mpeg" length="2936012"/>
+    <guid isPermaLink="false">jaime-y-su-tren-electrico</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/WhatsApp-Image-2025-11-21-at-12.45.54-1.jpeg"/>
+  </item>
+  <item>
+    <title>DEBER CUMPLIDO</title>
+    <description>En este relato de Isabel Goig, un viaje íntimo lleva unas cenizas a un lugar marcado por el silencio y la memoria.
+Una ficción donde el pasado espera ser escuchado para, quizá, cerrar el círculo.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/deber-cumplido.mp3" type="audio/mpeg" length="3355443"/>
+    <guid isPermaLink="false">deber-cumplido</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0226.jpg"/>
+  </item>
+  <item>
+    <title>EL NIÑO DULERO</title>
+    <description>Este podcast semanal de Isabel Gooig aborda el oficio rural perdido de La Dula a través de un cuento ambientado en la dehesa de Sarnago. Un joven descuidado y un caballo cansado de la rutina protagonizan una historia que recupera la memoria y las tradiciones del mundo rural.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/el-nino-dulero.mp3" type="audio/mpeg" length="3040870"/>
+    <guid isPermaLink="false">el-nino-dulero</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Caballos.jpg"/>
+  </item>
+  <item>
+    <title>LA MANDA TESTAMENTARIA</title>
+    <description>Isabel Goig nos trae un relato ambientado entre Sarnago y San Pedro Manrique, donde un joven arriesga su vida para cumplir la promesa hecha a su padre. Una historia de memoria, compromiso y humanidad en el mundo rural.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/la-manda-testamentaria.mp3" type="audio/mpeg" length="3145728"/>
+    <guid isPermaLink="false">la-manda-testamentaria</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0292-copia.jpg"/>
+  </item>
+  <item>
+    <title>LA FISCALÍA DE TASAS</title>
+    <description>Isabel Goig nos trae un relato sobre la Fiscalía de Tasas que controlaba los alimentos durante la dictadura, provocando abusos que golpearon sobre todo a los más pobres.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/la-fiscalia-de-tasas.mp3" type="audio/mpeg" length="3565158"/>
+    <guid isPermaLink="false">la-fiscalia-de-tasas</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/IMG_1255.jpg"/>
+  </item>
+  <item>
+    <title>LAS CAMPANAS DE ACRIJOS</title>
+    <description>Un texto de Javier Ortega (Acrijos) sobre la importancia de las campanas como medio de comunicación en los pueblos.
+Presentado en formato podcast, con voz generada por IA, para seguir difundiendo la memoria rural.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/las-campanas-de-acrijos.mp3" type="audio/mpeg" length="2936012"/>
+    <guid isPermaLink="false">las-campanas-de-acrijos</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0523-copia-1.jpg"/>
+  </item>
+  <item>
+    <title>LA MANTANZA DEL CERDO</title>
+    <description>En este nuevo episodio del podcast semanal, Isabel Goig nos acerca a la matanza del cerdo como una tradición esencial de la vida rural, hecha de trabajo compartido y memoria.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/la-matanza-del-cerdo.mp3" type="audio/mpeg" length="3460300"/>
+    <guid isPermaLink="false">la-matanza-del-cerdo</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/WhatsApp-Image-2026-02-08-at-13.09.28.jpeg"/>
+  </item>
+  <item>
+    <title>TENTE EN PIE</title>
+    <description>En este nuevo episodio del podcast semanal, Alfonso Fresno pone voz a su relato sobre el Ramo de la fiesta de Sarnago, un texto presentado al II Concurso Literario Abel Hernández que recorre el paisaje, la tradición y los vínculos familiares como forma de afirmar la identidad y la memoria del pueblo.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/tente-en-pie.mp3" type="audio/mpeg" length="2411724"/>
+    <guid isPermaLink="false">tente-en-pie</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/IMG_6565.jpg"/>
+  </item>
+  <item>
+    <title>EL APAGÓN QUE ME ILUMINÓ</title>
+    <description>María Ángeles Pozuelo relata cómo la inspiración para el II Concurso Literario Abel Hernández llegó cuando menos lo esperaba, durante el apagón del 28 de abril de 2025.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/el-apagon-que-me-ilumino.mp3" type="audio/mpeg" length="1782579"/>
+    <guid isPermaLink="false">el-apagon-que-me-ilumino</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Mondidas-3.jpg"/>
+  </item>
+  <item>
+    <title>CARNAVAL Y CUARESMA</title>
+    <description>Isabel Goig recuerda cómo se vivían el carnaval y la cuaresma en los pueblos, desde el Jueves Lardero hasta las mesas llenas de pescado. El relato termina con una pequeña travesura infantil: unos niños que no resisten la tentación de probar alguna vianda de la matanza guardada en aceite.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/carnaval-y-cuaresma.mp3" type="audio/mpeg" length="3565158"/>
+    <guid isPermaLink="false">carnaval-y-cuaresma</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/85.jpg"/>
+  </item>
+  <item>
+    <title>DÍA DE LA MUJER</title>
+    <description>En este podcast, Isabel Goig recuerda cómo vivían las mujeres de antes a través del diálogo entre una abuela y su nieta. Una reflexión sobre la memoria y la igualdad que invita a pensar cómo habría sido la sociedad si estas reivindicaciones hubieran llegado antes.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/dia-de-la-mujer.mp3" type="audio/mpeg" length="3250585"/>
+    <guid isPermaLink="false">dia-de-la-mujer</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/42-1.jpg"/>
+  </item>
+  <item>
+    <title>LA CUARESMA</title>
+    <description>Miguel Ángel San Miguel nos traslada a la Cuaresma de la posguerra en un pequeño pueblo rural, marcada por la austeridad y las tradiciones.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/la-cuaresma.mp3" type="audio/mpeg" length="7444889"/>
+    <guid isPermaLink="false">la-cuaresma</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/66-1.jpg"/>
+  </item>
+  <item>
+    <title>EL OFICIO DE TINIEBLAS</title>
+    <description>Un viaje a la Semana Santa de hace no tantos años, marcada por el silencio, la penumbra y el Oficio de Tinieblas.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/el-oficio-de-tinieblas.mp3" type="audio/mpeg" length="3355443"/>
+    <guid isPermaLink="false">el-oficio-de-tinieblas</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Polar-1.jpg"/>
+  </item>
+  <item>
+    <title>LA FUENTE DEL SEÑOR</title>
+    <description>Podcast de Isabel Goig. Un muchacho recorre cada día el mismo camino sin saber que en él se cruzan su origen y su destino. Entre monedas y silencios, se va tejiendo una verdad que solo el tiempo revelará.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/la-fuente-del-senor.mp3" type="audio/mpeg" length="3250585"/>
+    <guid isPermaLink="false">la-fuente-del-senor</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/20260406_104947.jpg.jpg"/>
+  </item>
+  <item>
+    <title>EL NOBLE OFICIO DE LA CARRETERIA</title>
+    <description>Isabel Goig repasa la importancia histórica de la carretería como oficio clave en el transporte tradicional.
+El episodio revive el traslado hasta Sarnago de una viga del Hospital de la Concepción de Burgos, realizado en 2025 con una carreta tirada por vacas serranas.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/el-noble-oficio-de-la-carreteria.mp3" type="audio/mpeg" length="3774873"/>
+    <guid isPermaLink="false">el-noble-oficio-de-la-carreteria</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Carreta-600x380-1.jpg"/>
+  </item>
+  <item>
+    <title>OFICIOS PERDIDOS I</title>
+    <description>Isabel Goig recupera en este podcast algunos oficios desaparecidos ligados a la supervivencia y la vida cotidiana en nuestros pueblos.
+Especial protagonismo tiene la antigua tejera de la Virgen del Monte de Sarnago y la figura casi olvidada del “sustanciero” de la posguerra.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/oficios-perdidos-1.mp3" type="audio/mpeg" length="4194304"/>
+    <guid isPermaLink="false">oficios-perdidos-1</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/ERMITA-VIRGEN-DEL-MONTE-6-SEP-2015.jpg"/>
+  </item>
+  <item>
+    <title>RIQUEZA Y PODER EN VILLA Y TIERRA</title>
+    <description>Miguel Ángel San Miguel analiza en el podcast semanal las enormes riquezas que llegaron a acumular las grandes familias de Tierras Altas durante el Antiguo Régimen. Un recorrido por el poder económico del Duque de Arcos, la Iglesia y las élites que marcaron durante siglos la vida de la comarca.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/riqueza-y-poder-en-villa-y-tierra.mp3" type="audio/mpeg" length="11848908"/>
+    <guid isPermaLink="false">riqueza-y-poder-en-villa-y-tierra</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Casa-del-senorito-en-San-Pedro.jpg"/>
+  </item>
+  <item>
+    <title>Relatos de Felicitas Jiménez Ridruejo (I)</title>
+    <description>Relatos no contados. Felicitas Jiménez Ridruejo, nacida en San Andrés de San Pedro cumplirá 100 años el 15 de Noviembre 2023.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/felicitas-jimenez-ridruejo-1.mp3" type="audio/mpeg" length="5662310"/>
+    <guid isPermaLink="false">felicitas-jimenez-ridruejo-1</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Felicitas-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Relatos de Felicitas Jiménez Ridruejo (II)</title>
+    <description>Relatos no contados. Felicitas Jiménez Ridruejo, nacida en San Andrés de San Pedro cumplirá 100 años el 15 de Noviembre 2023.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/felicitas-jimenez-ridruejo-ii.mp3" type="audio/mpeg" length="6710886"/>
+    <guid isPermaLink="false">felicitas-jimenez-ridruejo-ii</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Felicita-Jimenez-Ridruejo-2-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Apellidos de Sarnago (I)</title>
+    <description>Javier Mozas nos introduce en la historia de los apellidos de Sarnago (Uno de tres)</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/apellidos-1-parte.mp3" type="audio/mpeg" length="3774873"/>
+    <guid isPermaLink="false">apellidos-1-parte</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_1204-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Apellidos de Sarnago (II)</title>
+    <description>Javier Mozas nos introduce en la historia de los apellidos de Sarnago (Dos de tres)</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/apellidos-2.mp3" type="audio/mpeg" length="4404019"/>
+    <guid isPermaLink="false">apellidos-2</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_1473-1-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Apellidos en Sarnago (III)</title>
+    <description>Javier Mozas nos introduce en la historia de los apellidos de Sarnago (tres de tres)</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/apellidos-iii.mp3" type="audio/mpeg" length="3670016"/>
+    <guid isPermaLink="false">apellidos-iii</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_5461-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Viene el tío de América</title>
+    <description>Cuando tener un tío en América era signo de distinción en estos pequeños pueblos y se veía como el «maná»</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/los-americanos.mp3" type="audio/mpeg" length="10590617"/>
+    <guid isPermaLink="false">los-americanos</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Aerea-Sarnago-001-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Berlanga en San Pedro</title>
+    <description>Luis García Berlanga visita San Pedro San Pedro</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/berlanga-en-san-pedro-manrique.mp3" type="audio/mpeg" length="5767168"/>
+    <guid isPermaLink="false">berlanga-en-san-pedro-manrique</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Berlanga-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Vivencias en un pueblo años 50-60 (I)</title>
+    <description>Javier Hernández nos narra cómo se vivía en un pueblo de las tierras Altas de Soria en loa años 50 del siglo pasado</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/ventosa-anos-50.mp3" type="audio/mpeg" length="10800332"/>
+    <guid isPermaLink="false">ventosa-anos-50</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/358027602_221224447530919_8703431533577663526_n-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Vivencias en un pueblo años 40-60 (III)</title>
+    <description>Javier Hernández pone voz a unos textos de su padre Emilio donde relata cómo se vivía en un pueblo de las tierras Altas de Soria en loa años de la postguerra,</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/bienvenida-a-la-primavera-2023.mp3" type="audio/mpeg" length="8598323"/>
+    <guid isPermaLink="false">bienvenida-a-la-primavera-2023</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Mondidas-Ventosa-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Primera escuela</title>
+    <description>Una semana más Miguel Ángel San Miguel nos traslada a épocas pretéritas donde la escuela no era un espacio como lo conocemos ahora</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/primera-escuela.mp3" type="audio/mpeg" length="7759462"/>
+    <guid isPermaLink="false">primera-escuela</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/5-3-150x150.jpg"/>
+  </item>
+  <item>
+    <title>La música en época de silencio</title>
+    <description>Miguel Ángel San Miguel nos deleita con otra de sus historias donde remarca la importancia de la música en épocas donde el silencio era el protagonista.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/la-musica-en-epocas-de-silencio.mp3" type="audio/mpeg" length="5872025"/>
+    <guid isPermaLink="false">la-musica-en-epocas-de-silencio</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Musica-1-150x150.jpg"/>
+  </item>
+  <item>
+    <title>La música en época de silencio (parte 2)</title>
+    <description>Continuación del podcast que Miguel Ángel San Miguel dedica a la música.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/los-musicos-parte-2.mp3" type="audio/mpeg" length="8912896"/>
+    <guid isPermaLink="false">los-musicos-parte-2</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Banda-Dolores-150x150.jpg"/>
+  </item>
+  <item>
+    <title>El funeral de doña Eufemia</title>
+    <description>Anécdota de los años 50 del pasado siglo donde Miguel Ángel San Miguel combina ficción y realidad para darle un toque de humor</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/el-funeral-de-dona-eufemia.mp3" type="audio/mpeg" length="6815744"/>
+    <guid isPermaLink="false">el-funeral-de-dona-eufemia</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Mercado-San-Pedro-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Ya hay que recogerse</title>
+    <description>Miguel Ángel San Miguel nos describe como era una boda de postín y otra humilde en un pueblo de la sierra hace algunos años.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/ya-hay-que-recogerse.mp3" type="audio/mpeg" length="10380902"/>
+    <guid isPermaLink="false">ya-hay-que-recogerse</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Boda-Huerteles-150x150.jpg"/>
+  </item>
+  <item>
+    <title>El río que nos lleva</title>
+    <description>Miguel Ángel San Miguel homenajea al río Linares, tan importante en la comarca a través de los siglos.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/el-rio-que-nos-lleva.mp3" type="audio/mpeg" length="6606028"/>
+    <guid isPermaLink="false">el-rio-que-nos-lleva</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/393316760_7190661400967806_1117733263880360020_n-150x150.jpg"/>
+  </item>
+  <item>
+    <title>El &quot;13&quot; un viejo autobús para el recuerdo</title>
+    <description>Miguel Ángel San Miguel hace un poco de historia y nos recuerda como era el primer autobús que circulaba entre San Pedro y Huérteles.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/el-13-un-viejo-autobus-para-el-recuerdo.mp3" type="audio/mpeg" length="7235174"/>
+    <guid isPermaLink="false">el-13-un-viejo-autobus-para-el-recuerdo</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0537-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Se nos va la tía Marcelina</title>
+    <description>Miguel Ángel San Miguel nos relata como podría ser los últimos momentos, y su posterior funeral, de una persona mayor en uno de nuestros pueblos.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/se-nos-va-la-tia-marcelina.mp3" type="audio/mpeg" length="11219763"/>
+    <guid isPermaLink="false">se-nos-va-la-tia-marcelina</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Abuelos-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Y vino la luz</title>
+    <description>Miguel Ángel San Miguel nos traslada hasta un pueblo cualquiera de la sierra cuando «vino la luz»</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/y-llego-la-luz.mp3" type="audio/mpeg" length="11010048"/>
+    <guid isPermaLink="false">y-llego-la-luz</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Foto-Mural-1-600x832-1-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Los deportes de pequeños y mayores</title>
+    <description>Miguel Ángel San Miguel nos narra la transcendencia de algún deporte cuando los entretenimientos eran escasos</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/los-deportes-de-pequenos-y-mayores.mp3" type="audio/mpeg" length="6396313"/>
+    <guid isPermaLink="false">los-deportes-de-pequenos-y-mayores</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Numancia-150x150.jpg"/>
+  </item>
+  <item>
+    <title>El año que hubo dos procesiones</title>
+    <description>Miguel Ángel San Miguel nos narra una circunstancia muy especial que modificó el protocolo que marcaba la procesión del Corpus en la villa de San Pedro Manrique.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/el-ano-que-hubo-dos-procesiones.mp3" type="audio/mpeg" length="8388608"/>
+    <guid isPermaLink="false">el-ano-que-hubo-dos-procesiones</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Procesion-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Blas Taracena precursor de la arqueología de la comarca</title>
+    <description>En el centenario de la visita, de trabajo, que realizó a la comarca el arqueólogo soriano D. Blas Taracena, Miguel Ángel San Miguel nos recuerda que fue este ilustre personaje fue el que descubrió el castro de Sarnago (El Castillo)</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/blas-taracena-precursor-de-la-arqueologia-de-la-comarca.mp3" type="audio/mpeg" length="9122611"/>
+    <guid isPermaLink="false">blas-taracena-precursor-de-la-arqueologia-de-la-comarca</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/El-Castillo-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Ciro Redondo, de Taniñe a Mauthausen</title>
+    <description>Miguel Ángel San Miguel nos habla sobre los campos de concentración en la Alemania nazi y de Ciro Redondo, oriundo de Taniñe, deportado en 1941 a Mauthausen y liberado en 1945</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/ciro-redondo-de-tanine-a-mauthausen.mp3" type="audio/mpeg" length="9017753"/>
+    <guid isPermaLink="false">ciro-redondo-de-tanine-a-mauthausen</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/002-1-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Miguel Martín un carrertero de Acrijos en el Reino de Granada</title>
+    <description>Luis Lara nos cuenta la historia de este acrijeño que dejó el pueblo para hacerse carretero en los inicios del SXVII</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/miguel-martin-un-carretero-de-acrijos-en-el-reino-de-granada.mp3" type="audio/mpeg" length="10905190"/>
+    <guid isPermaLink="false">miguel-martin-un-carretero-de-acrijos-en-el-reino-de-granada</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Carretero-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Tierra de emigrantes</title>
+    <description>Miguel Ángel San Miguel nos recuerda que esta tierra siempre ha sido de emigrantes, poniendo el énfasis en la más dura la de los años 60-70 del pasado siglo.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/nuestra-comarca-tierra-de-emigrantes.mp3" type="audio/mpeg" length="7759462"/>
+    <guid isPermaLink="false">nuestra-comarca-tierra-de-emigrantes</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0248-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Cuando la sierra quedaba triste y callada</title>
+    <description>Miguel Ángel San Miguel nos traslada a los tiempos donde los pastores de la sierra marchaban a la invernada.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/cuando-la-sierra-quedaba-triste-y-callada.mp3" type="audio/mpeg" length="7235174"/>
+    <guid isPermaLink="false">cuando-la-sierra-quedaba-triste-y-callada</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0036-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Adios a un paisanaje, hola a un nuevo paisaje</title>
+    <description>Miguel Ángel San Miguel nos relata el fin de un época, la trashumancia, y como se «retiran» las ovejas para dar paso a colonizar la sierra con aerogeneradores.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/adios-a-un-paisanaje-hola-a-un-nuevo-paisaje.mp3" type="audio/mpeg" length="6501171"/>
+    <guid isPermaLink="false">adios-a-un-paisanaje-hola-a-un-nuevo-paisaje</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Captura-2-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Nuestro patriminio</title>
+    <description>Miguel Ángel San Miguel hace un somero repaso por parte del patrimonio de la comarca. Destacando los bienes que han ido desapareciendo y los que se conservan.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/nuestro-patrimonio.mp3" type="audio/mpeg" length="10380902"/>
+    <guid isPermaLink="false">nuestro-patrimonio</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/201360748_1734778513376592_6473937850919053712_n-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Beltaine</title>
+    <description>Javier Hernández Ruiz nos habla de la beltaine, la fiesta de bienvenida de la primavera en el mundo celtíbero.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/beltaine.mp3" type="audio/mpeg" length="5033164"/>
+    <guid isPermaLink="false">beltaine</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/279638460_5068261446573124_8881280821125460761_n-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Otras formas de estar en el mundo</title>
+    <description>Francisco Colom hace una reflexión sobre la necesaria transformación de vida que debe haber en el mundo, poniendo en valor la construcción del coliving de Sarnago como una punta de lanza.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/otras-formas-de-estar-en-el-mundo.mp3" type="audio/mpeg" length="6815744"/>
+    <guid isPermaLink="false">otras-formas-de-estar-en-el-mundo</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/PRESENTACION-SARNAGO-12-1-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Alcarama, un nómada en tierra de trashumantes</title>
+    <description>Entrevista en la cadena SER de La Rioja a Nacho Luque, donde habla de su película y de Sarnago</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/alcarama-un-nomada-en-tierra-de-trashumantes.mp3" type="audio/mpeg" length="11219763"/>
+    <guid isPermaLink="false">alcarama-un-nomada-en-tierra-de-trashumantes</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Caratula-pelicula-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Fiestas en El vallejo Hace 100 años</title>
+    <description>Notas de prensa aparecidas en el Avisador Numantino de septiembre de 1926 y 1927 donde se hace referencias a las fiestas de El Vallejo, con corridas de toros y fuegos artificiales.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/fiestas-en-el-vallejo-hace-100-anos.mp3" type="audio/mpeg" length="4613734"/>
+    <guid isPermaLink="false">fiestas-en-el-vallejo-hace-100-anos</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/WhatsApp-Image-2024-09-07-at-04.59.35-150x150.jpeg"/>
+  </item>
+  <item>
+    <title>Samhin</title>
+    <description>En este podcast de Javier Hernán. Ruiz, donde explora el origen de Samhain, la antigua festividad celta que marcaba el inicio del invierno y conectaba a los vivos con los muertos.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/samhain.mp3" type="audio/mpeg" length="3145728"/>
+    <guid isPermaLink="false">samhain</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/279638460_5068261446573124_8881280821125460761_n-1-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Navidades blancas</title>
+    <description>Hoy, día de Navidad, compartimos este podcast de Miguel Ángel San Miguel nos describe unas situaciones que también era navideñas que se salen un poco de lo bucólico de estas fechas.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/navidades-blancas.mp3" type="audio/mpeg" length="8178892"/>
+    <guid isPermaLink="false">navidades-blancas</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Felicitacion-navidad-2024-25-B-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Soria en 600</title>
+    <description>Javier Martínez Romera nos describe sus excursiones por Soria a bordo de su Seat 600, descubriendo paisajes, historias y rincones olvidados.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/viaje-en-600-por-tierras-altas-de-soria.mp3" type="audio/mpeg" length="3670016"/>
+    <guid isPermaLink="false">viaje-en-600-por-tierras-altas-de-soria</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/WhatsApp-Image-2025-02-28-at-13.48.56-150x150.jpeg"/>
+  </item>
+  <item>
+    <title>El tío Dimas, cuando la necesidad se convierte en inventiva</title>
+    <description>Miguel Ángel San Miguel nos cuenta la vida singular de este personaje que  con sacrificio y honestidad, trabajó sin descanso en múltiples oficios para dar un futuro a sus siete hijos.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/el-tio-dimas-cuando-la-necesidad-se-transforma-en-inventiva.mp3" type="audio/mpeg" length="8388608"/>
+    <guid isPermaLink="false">el-tio-dimas-cuando-la-necesidad-se-transforma-en-inventiva</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Cirilo-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Francisco de la Questa en Granada (Parte I)</title>
+    <description>A finales del siglo XVI Francisco de la Questa, trashumante, casi un niño, parte de Sarnago al reino de Granada, ya no volverá, En el valle de Illora comenzará otra vida. Historia contada por Luis Lara, descendiente de aquel pastor.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/francisco-de-la-questa-parte-i.mp3" type="audio/mpeg" length="4823449"/>
+    <guid isPermaLink="false">francisco-de-la-questa-parte-i</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Illora-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Francisco de la Questa en Granada (Parte II)</title>
+    <description>A finales del siglo XVI Francisco de la Questa, trashumante, casi un niño, parte de Sarnago al reino de Granada, ya no volverá, En el valle de Illora comenzará otra vida. Historia contada por Luis Lara, descendiente de aquel pastor.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/francisco-de-la-questa-parte-2.mp3" type="audio/mpeg" length="5976883"/>
+    <guid isPermaLink="false">francisco-de-la-questa-parte-2</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Iglesia-2-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Francisco de la Questa en Granada (Parte III)</title>
+    <description>A finales del siglo XVI Francisco de la Questa, trashumante, casi un niño, parte de Sarnago al reino de Granada, ya no volverá, En el valle de Illora comenzará otra vida. Historia contada por Luis Lara, descendiente de aquel pastor.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/francisco-de-la-questa-parte-3.mp3" type="audio/mpeg" length="6396313"/>
+    <guid isPermaLink="false">francisco-de-la-questa-parte-3</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/Iglesia-150x150.jpg"/>
+  </item>
+  <item>
+    <title>Francisco de la Questa en Granada (Parte IV)</title>
+    <description>A finales del siglo XVI Francisco de la Questa, trashumante, casi un niño, parte de Sarnago al reino de Granada, ya no volverá, En el valle de Illora comenzará otra vida. Historia contada por Luis Lara, descendiente de aquel pastor.</description>
+    <enclosure url="https://archive.org/download/desde-sarnago_202605/francisco-de-la-questa-parte-4.mp3" type="audio/mpeg" length="5242880"/>
+    <guid isPermaLink="false">francisco-de-la-questa-parte-4</guid>
+    <itunes:image href="https://sarnago.com/wp-content/uploads/66-150x150.jpg"/>
+  </item>
+</channel>
+</rss>
