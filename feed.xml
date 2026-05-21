@@ -15,6 +15,20 @@
   <itunes:image href="https://mcarrascosa11.github.io/desde-sarnago/podcast-cover.jpg"/>
   <atom:link href="https://mcarrascosa11.github.io/desde-sarnago/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+  <pubDate>Wed, 27 May 2026 10:00:00 +0000</pubDate>
+  <title>Hablemos de mendigos</title>
+  <description>En este nuevo episodio viajamos con Isabel Goig a una época en la que la solidaridad y la supervivencia formaban parte de la vida cotidiana de los pueblos.
+
+Isabel Goig nos habla de los mendigos y transeúntes que recorrían los caminos de Castilla y de cómo cada localidad organizaba su atención. En algunos pueblos existía “la pobrera”, mientras que en otros el sistema funcionaba “a reo vecino”: cada casa debía proporcionar comida o cobijo al forastero durante un tiempo limitado, normalmente no más de 24 horas.
+
+Un recorrido por una realidad dura, pero también profundamente humana, donde la pobreza, la hospitalidad y las normas vecinales formaban parte de la organización tradicional de nuestros pueblos.
+
+🪨 Memoria rural, costumbres olvidadas y pequeñas historias de la España que desaparece.</description>
+  <enclosure url="https://archive.org/download/desde-sarnago_202605/hablemos-de-mendigos.mp3" type="audio/mpeg" length="0"/>
+  <guid isPermaLink="false">hablemos-de-mendigos</guid>
+  <itunes:image href="https://mcarrascosa11.github.io/desde-sarnago/podcast-cover.jpg"/>
+</item>
+  <item>
   <pubDate>Wed, 06 May 2026 10:00:00 +0000</pubDate>
     <title>El lavadero</title>
     <description>Isabel Goig nos recita su escrito sobre el lavadero y las mujeres sarnaguesas</description>
