@@ -14,13 +14,16 @@
   <itunes:category text="Society &amp; Culture"/>
   <itunes:image href="https://mcarrascosa11.github.io/desde-sarnago/podcast-cover.jpg"/>
   <atom:link href="https://mcarrascosa11.github.io/desde-sarnago/feed.xml" rel="self" type="application/rss+xml"/>
-  <item>
-  <pubDate>Wed, 21 May 2026 10:00:00 +0000</pubDate>
+  
+<item>
+  <pubDate>Wed, 20 May 2026 10:00:00 +0000</pubDate>
   <title>Hablemos de mendigos</title>
-  <description>Isabel Goig nos habla de los mendigos y transeúntes que recorrían los caminos de Castilla y de cómo cada localidad organizaba su atención. En algunos pueblos existía “la pobrera”, mientras que en otros el sistema funcionaba “a reo vecino”: cada casa debía proporcionar comida o cobijo al forastero durante un tiempo limitado, normalmente no más de 24 horas.</description>
+  <description>Un recorrido por la memoria de aquellos mendigos y transeúntes que recorrían nuestros pueblos buscando un plato caliente y un lugar donde pasar la noche.
+
+Isabel Goig nos descubre cómo funcionaban “la pobrera” y el sistema “a reo vecino”, formas tradicionales de solidaridad y organización vecinal hoy casi olvidadas.</description>
   <enclosure url="https://archive.org/download/desde-sarnago_202605/hablemos-de-mendigos.mp3" type="audio/mpeg" length="0"/>
   <guid isPermaLink="false">hablemos-de-mendigos</guid>
-  <itunes:image href="https://mcarrascosa11.github.io/desde-sarnago/podcast-cover.jpg"/>
+  <itunes:image href="https://sarnago.com/wp-content/uploads/DSC_0668.jpg"/>
 </item>
   <item>
   <pubDate>Wed, 06 May 2026 10:00:00 +0000</pubDate>
