@@ -15,6 +15,15 @@
   <itunes:image href="https://mcarrascosa11.github.io/desde-sarnago/podcast-cover.jpg"/>
   <atom:link href="https://mcarrascosa11.github.io/desde-sarnago/feed.xml" rel="self" type="application/rss+xml"/>
 
+  <item>
+  <pubDate>Wed, 03 Jun 2026 10:00:00 +0000</pubDate>
+  <title>Los chismorreos</title>
+  <description>La memoria de los pueblos también guarda sus heridas. Un conmovedor testimonio sobre cómo una habladuría acabó marcando el destino de una mujer hasta sus últimos días. Isabel Golig lo narra como nadie</description>
+  <enclosure url="https://archive.org/download/desde-sarnago_202605/los-chismorreos.mp3" type="audio/mpeg" length="0"/>
+  <guid isPermaLink="false">los-chismorreos</guid>
+  <itunes:image href="https://mcarrascosa11.github.io/desde-sarnago/podcast-cover.jpg"/>
+</item>
+
 <item>
   <pubDate>Wed, 03 Jun 2026 10:00:00 +0000</pubDate>
   <title>Llegando a Sarnago todo vuelve a despertar</title>
