@@ -16,6 +16,15 @@
   <atom:link href="https://mcarrascosa11.github.io/desde-sarnago/feed.xml" rel="self" type="application/rss+xml"/>
 
   <item>
+  <pubDate>Wed, 17 Jun 2026 10:00:00 +0000</pubDate>
+  <title>La muñeca de trapo</title>
+  <description>La historia de una muñeca de trapo junto a un monolito en la Sierra de Alcarama. Un emotivo relato de Isabel Goig inspirado en hechos reales de 1936.</description>
+  <enclosure url="https://archive.org/download/desde-sarnago_202605/la-muneca-de-trapo.mp3" type="audio/mpeg" length="4613734"/>
+  <guid isPermaLink="false">la-muneca-de-trapo</guid>
+  <itunes:image href="https://sarnago.com/wp-content/uploads/images-1.jpg"/>
+</item>
+
+  <item>
   <pubDate>Wed, 03 Jun 2026 10:00:00 +0000</pubDate>
   <title>Los chismorreos</title>
   <description>La memoria de los pueblos también guarda sus heridas. Un conmovedor testimonio sobre cómo una habladuría acabó marcando el destino de una mujer hasta sus últimos días. Isabel Golig lo narra como nadie</description>
