@@ -16,6 +16,15 @@
   <atom:link href="https://mcarrascosa11.github.io/desde-sarnago/feed.xml" rel="self" type="application/rss+xml"/>
 
   <item>
+  <pubDate>Wed, 15 Jul 2026 10:00:00 +0000</pubDate>
+  <title>Eclipse solar</title>
+  <description>El próximo 12 de agosto, el Sol se apagará sobre El Castillo de Sarnago. Isabel Goig imagina cómo pudieron vivir un eclipse semejante los pelendones que habitaron este antiguo castro.</description>
+  <enclosure url="https://archive.org/download/desde-sarnago_202605/elipse-solar.mp3" type="audio/mpeg" length="2945450"/>
+  <guid isPermaLink="false">elipse-solar</guid>
+  <itunes:image href="https://sarnago.com/wp-content/uploads/Eclpse-solar.png"/>
+</item>
+
+  <item>
   <pubDate>Wed, 08 Jul 2026 10:00:00 +0000</pubDate>
   <title>Bernardo Martínez Barranco el pintor olvidado de Tierras Altas</title>
   <description>Miguel Ángel San Miguel recupera la figura de Bernardo Martínez Barranco, un pintor de Tierras Altas injustamente olvidado por la historia. Contemporáneo de Goya, desarrolló parte de su carrera en la corte de Carlos III y Carlos IV, dejando una obra que merece ser redescubierta.</description>
