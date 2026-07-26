@@ -16,6 +16,15 @@
   <atom:link href="https://mcarrascosa11.github.io/desde-sarnago/feed.xml" rel="self" type="application/rss+xml"/>
 
   <item>
+  <pubDate>Wed, 22 Jul 2026 10:00:00 +0000</pubDate>
+  <title>Los muchachos de El Pilar</title>
+  <description>Los jóvenes scouts del Colegio El Pilar han llegado a Sarnago con ganas de trabajar y ayudar. En este nuevo podcast, Isabel Goig pone en valor su esfuerzo desinteresado y recuerda que el futuro de nuestros pueblos también se construye con gestos como estos.</description>
+  <enclosure url="https://archive.org/download/desde-sarnago_202605/los-muchachos-de-el-pilar.mp3" type="audio/mpeg" length="3263169"/>
+  <guid isPermaLink="false">los-muchachos-de-el-pilar</guid>
+  <itunes:image href="https://sarnago.com/wp-content/uploads/Scouts.jpg"/>
+</item>
+
+  <item>
   <pubDate>Wed, 15 Jul 2026 10:00:00 +0000</pubDate>
   <title>Eclipse solar</title>
   <description>El próximo 12 de agosto, el Sol se apagará sobre El Castillo de Sarnago. Isabel Goig imagina cómo pudieron vivir un eclipse semejante los pelendones que habitaron este antiguo castro.</description>
