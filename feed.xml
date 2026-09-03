@@ -15,11 +15,11 @@
   <itunes:image href="https://mcarrascosa11.github.io/desde-sarnago/podcast-cover.jpg"/>
   <atom:link href="https://mcarrascosa11.github.io/desde-sarnago/feed.xml" rel="self" type="application/rss+xml"/>
 
-  <item>
+<item>
   <pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
   <title>Cuarteta Ágata González Anguiano</title>
   <description>Ágata González Anguiano recitó su cuarteta el día de Las Móndidas de Sarnago 2026, siguiendo los pasos de su abuela Marcelina y de otras mujeres de su familia que la precedieron. Una tradición que atraviesa generaciones y mantiene viva la memoria de Sarnago.</description>
-  <enclosure url="https://archive.org/download/desde-sarnago_202605/cuarteta-agata-gonzalez-anguiano.mp3" type="audio/mpeg" length="1.799"/>
+  <enclosure url="https://archive.org/download/desde-sarnago_202605/cuarteta-agata-gonzalez-anguiano.mp3" type="audio/mpeg" length="1886388"/>
   <guid isPermaLink="false">cuarteta-agata-gonzalez-anguiano</guid>
   <itunes:image href="https://sarnago.com/wp-content/uploads/1-6.jpg"/>
 </item>
