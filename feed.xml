@@ -14,7 +14,17 @@
   <itunes:category text="Society &amp; Culture"/>
   <itunes:image href="https://mcarrascosa11.github.io/desde-sarnago/podcast-cover.jpg"/>
   <atom:link href="https://mcarrascosa11.github.io/desde-sarnago/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+  <pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
+  <title>El vuelo del azabache</title>
+  <description>Adela Blanes Restoy recuerda su paso por Sarnago y recita su relato, primer accésit del III Concurso Literario «Abel Hernández».
 
+Con ella iniciamos una serie dedicada a las voces de los participantes.</description>
+  <enclosure url="https://archive.org/download/desde-sarnago_202605/el-vuelo-del-azabache.mp3" type="audio/mpeg" length="5242880"/>
+  <guid isPermaLink="false">el-vuelo-del-azabache</guid>
+  <itunes:image href="https://sarnago.com/wp-content/uploads/Ventana-copia.jpg"/>
+</item>
+  
 <item>
   <pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
   <title>Cuarteta Ágata González Anguiano</title>
