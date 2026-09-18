@@ -14,6 +14,17 @@
   <itunes:category text="Society &amp; Culture"/>
   <itunes:image href="https://mcarrascosa11.github.io/desde-sarnago/podcast-cover.jpg"/>
   <atom:link href="https://mcarrascosa11.github.io/desde-sarnago/feed.xml" rel="self" type="application/rss+xml"/>
+
+  
+<item>
+  <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
+  <title>RAÍCES DE VALDENEGRILLOS | La cuarteta de Marta Rubio, Móndida de Sarnago 2026</title>
+  <description>En el podcast de esta semana recuperamos «Raíces de Valdenegrillos», la cuarteta que Marta Rubio Jiménez recitó el 23 de agosto como Móndida de Sarnago y Valdenegrillos 2026. Un emotivo recorrido por sus raíces familiares, la memoria de nuestros pueblos y los lazos que unen Valdenegrillos y Sarnago.</description>
+  <enclosure url="https://archive.org/download/desde-sarnago_202605/raices-de-valdenegrillos-la-cuarteta-de-marta-rubio-mondida-.mp3" type="audio/mpeg" length="1541407"/>
+  <guid isPermaLink="false">raices-de-valdenegrillos-la-cuarteta-de-marta-rubio-mondida-</guid>
+  <itunes:image href="https://sarnago.com/wp-content/uploads/3-3.jpg"/>
+</item>
+  
 <item>
   <pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
   <title>El vuelo del azabache</title>
