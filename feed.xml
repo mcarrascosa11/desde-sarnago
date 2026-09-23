@@ -15,6 +15,14 @@
   <itunes:image href="https://mcarrascosa11.github.io/desde-sarnago/podcast-cover.jpg"/>
   <atom:link href="https://mcarrascosa11.github.io/desde-sarnago/feed.xml" rel="self" type="application/rss+xml"/>
 
+<item>
+  <pubDate>Wed, 23 Sep 2026 10:00:00 +0000</pubDate>
+  <title>La ventana de Proust</title>
+  <description>«La ventana de Proust», de Gurutze Irisarri Traba, nos devuelve al Sarnago de la infancia a través del sonido de las campanas, el aroma de las rosquillas y el recuerdo de quienes ya no están. Un emotivo relato del III Concurso Literario «Abel Hernández» sobre las raíces, la memoria y la suerte de tener un lugar al que volver.</description>
+  <enclosure url="https://archive.org/download/desde-sarnago_202605/la-ventana-de-proust.mp3" type="audio/mpeg" length="2258633"/>
+  <guid isPermaLink="false">la-ventana-de-proust</guid>
+  <itunes:image href="https://sarnago.com/wp-content/uploads/Ventana.jpg"/>
+</item>
   
 <item>
   <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
