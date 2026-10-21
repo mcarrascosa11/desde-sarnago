@@ -16,6 +16,28 @@
   <atom:link href="https://mcarrascosa11.github.io/desde-sarnago/feed.xml" rel="self" type="application/rss+xml"/>
   
 <item>
+  <pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
+  <title>La ventana Lamari</title>
+  <description>María Rozas Larraondo imagina cómo Sarnago pudo tener su propia “televisión” antes de que llegara el primer aparato al pueblo. Un relato lleno de humor e ironía sobre la vida rural, las costumbres y la llegada de la modernidad.</description>
+  <link>https://youtu.be/W3VJV1j_zdc</link>
+  <enclosure url="https://archive.org/download/desde-sarnago_202605/la-ventana-lamari.mp3" type="audio/mpeg" length="2080077"/>
+  <guid isPermaLink="false">la-ventana-lamari</guid>
+  <itunes:image href="https://sarnago.com/wp-content/uploads/Ventana.jpg"/>
+  <itunes:duration>109</itunes:duration>
+</item>
+  
+<item>
+  <pubDate>Wed, 07 Oct 2026 10:00:00 +0000</pubDate>
+  <title>La ventana del recuerdo</title>
+  <description>Lydia Santos Nieto abre una ventana a la memoria de Sarnago, donde las piedras, los pajares y el paisaje conservan las voces de quienes vivieron y trabajaron allí. Un relato lleno de silencio, recuerdos y emoción, en el que el tiempo parece detenerse para no olvidar todo lo que fue.</description>
+  <link>https://youtu.be/jQCeX8t5LFg</link>
+  <enclosure url="https://archive.org/download/desde-sarnago_202605/la-ventana-del-recuerdo.mp3" type="audio/mpeg" length="1919493"/>
+  <guid isPermaLink="false">la-ventana-del-recuerdo</guid>
+  <itunes:image href="https://sarnago.com/wp-content/uploads/Ventana-copia.jpg"/>
+  <itunes:duration>62</itunes:duration>
+</item>
+  
+<item>
   <pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
   <title>SARNAGO VENTANA DE PENSAMIENTOS QUE PERDURA EN EL TIEMPO</title>
   <description>Auri Cerrud Miranda nos abre una ventana al paisaje, la memoria y las emociones de Sarnago. Sus piedras se convierten en testigos de sueños, recuerdos y vidas que siguen latiendo a pesar del paso del tiempo.</description>
